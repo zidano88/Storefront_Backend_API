@@ -13,7 +13,7 @@
  
 ## Description   
 
-This is a **Storefront Backend Project** that uses node and postgres to build a backend system for a store and it was built for a Udacity course. The website provides routes to be called by front end part to allow users to add and retrieve products to and from their carts or add prodcuts and users to the store database.  
+This is a **Storefront Backend Project** that uses node and postgres to build a backend system for a store and it was built for a Udacity course. The website provides routes to be called by front end part to allow users to add and retrieve products to and from their carts or add products and users to the store database.  
 
 ## Prequisites 
 
